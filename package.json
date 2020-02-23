@@ -1,0 +1,22 @@
+{
+  "name": "mqtt-azure-iot-hub",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test-control.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neilspink/mqtt-azure-iot-hub.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/neilspink/mqtt-azure-iot-hub/issues"
+  },
+  "homepage": "https://github.com/neilspink/mqtt-azure-iot-hub#readme",
+  "dependencies": {
+    "azure-iot-device-mqtt": "^1.11.2"
+  }
+}
