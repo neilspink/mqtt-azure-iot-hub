@@ -11,7 +11,7 @@
 // an environment variable to make it available to your application
 // or use an HSM or an x509 certificate.
 // https://docs.microsoft.com/azure/iot-hub/iot-hub-devguide-security
-var connectionString = '';
+var connectionString = 'HostName=ABABABA-iot.azure-devices.net;DeviceId=test-barometer;SharedAccessKey=/secretABABAB=';
 
 // Using the Node.js Device SDK for IoT Hub:
 //   https://github.com/Azure/azure-iot-sdk-node
